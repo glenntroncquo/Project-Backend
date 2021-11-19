@@ -40,4 +40,3 @@ ormconfig.env
 docker.ormconfig.env
 
 # FIREBASE CONFIG FILE
-src/firebase/firebase.config.json
