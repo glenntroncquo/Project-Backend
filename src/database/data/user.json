@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": "59b1d72f-e34c-482e-ac5f-8e67fb5c7f5a",
+    "name": "Glenn",
+    "lastname": "Troncquo",
+    "email": "glennisslim@gmail.com",
+    "birthdate": "2001-06-20",
+    "phone_nr": "+32496054389",
+    "password": "glenn1"
+  },
+  {
+    "name": "Wout",
+    "lastname": "Vancoppenolle",
+    "email": "wout@gmail.com",
+    "birthdate": "2000-06-20",
+    "phone_nr": "+32496054389",
+    "password": "wout1"
+  },
+  {
+    "name": "Niels",
+    "lastname": "Onderbeke",
+    "email": "niels@gmail.com",
+    "birthdate": "2001-06-20",
+    "phone_nr": "+32496054389",
+    "password": "niels1"
+  },
+  {
+    "name": "Maxime",
+    "lastname": "Vermeeren",
+    "email": "maxime@gmail.com",
+    "birthdate": "2001-06-20",
+    "phone_nr": "+32496054389",
+    "password": "niels1"
+  }
+]

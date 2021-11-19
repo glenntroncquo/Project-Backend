@@ -1,0 +1,17 @@
+[
+  {
+    "size_id": 1,
+    "size_name": "Small",
+    "price": 0
+  },
+  {
+    "size_id": 2,
+    "size_name": "Medium",
+    "price": 5
+  },
+  {
+    "size_id": 3,
+    "size_name": "Large",
+    "price": 10
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee72",
+    "name": "Margerita",
+    "price": 7,
+    "stock": 10,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172830338.jpg",
+    "description": "With lots of mozzarella, fine slices of ham and tomato sauce"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee73",
+    "name": "Pepperoni",
+    "price": 7,
+    "stock": 27,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172846486.jpg",
+    "description": "Lots of pepperoni sausage, mozzarella and tomato sauce"
+  },
+
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee74",
+    "name": "Cheese & Ham",
+    "price": 7,
+    "stock": 5,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172630262.jpg",
+    "description": "With lots of mozzarella, fine slices of ham and tomato sauce"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee75",
+    "name": "Forestiere",
+    "price": 7,
+    "stock": 1,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172706434.jpg",
+    "description": "Slices of ham, mushrooms, diced tomatoes, tomato sauce and mozzarella"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee76",
+    "name": "Hawai",
+    "price": 7,
+    "stock": 3,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172748706.jpg",
+    "description": "Pineapple, slices of ham, mushrooms, mozzarella and tomato sauce"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee77",
+    "name": "Hot & Spicy",
+    "price": 7,
+    "stock": 23,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172800331.jpg",
+    "description": "Spicy beef, chili peppers, red onion, diced tomatoes, mozzarella and tomato sauce"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee78",
+    "name": "Barbecue Chicken",
+    "price": 7,
+    "stock": 25,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172607703.jpg",
+    "description": "Pieces of grilled chicken, mushrooms, green bell pepper, red onion, mozzarella and barbecue sauce"
+  },
+
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee79",
+    "name": "Barbecue",
+    "price": 7,
+    "stock": 9,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172553904.jpg",
+    "description": "Double portion of spicy beef, smoked bacon strips, red onion, mozzarella and barbecue sauce"
+  },
+  {
+    "pizza_id": "582debbe-e065-49c5-85a5-3c009029ee70",
+    "name": "Pepperoni Supreme",
+    "price": 7,
+    "stock": 7,
+    "img_url": "https://cdn-catalog.pizzahut.be/images/be/20191009172911735.jpg",
+    "description": "Beef, pork, ham, pepperoni, mushrooms, green bell pepper, red onion, black olives, mozzarella and tomato sauceuce"
+  }
+]

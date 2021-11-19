@@ -1,0 +1,28 @@
+services:
+  mariadb:
+    image: mariadb:10.5.12
+    ports:
+      - 3307:3306
+    env_file:
+      - .env
+    volumes:
+      - database-pizza:/var/lib/mysql
+
+  adminer:
+    image: adminer:4.8.1
+    ports:
+      - 9999:8080
+    depends_on:
+      - mariadb
+
+  pizza-backend:
+    image: glenntroncquo/project-backend:1.0.0
+    ports:
+      - 3001:3001
+    env_file:
+      - ormconfig.env
+    depends_on:
+      - mariadb
+
+volumes:
+  database-pizza:

@@ -1,0 +1,30 @@
+[
+  {
+    "topping_id": "8c751f9f-8717-4315-ac01-144d40731d98",
+    "name": "Pineapple",
+    "type": "Vegetable",
+    "price": 1,
+    "img_url": "https://order.dominos.be/ManagedAssets/OLO/eStore/All/Component/BE/Topping.ANANA/Topping.ANANA_ComponentImage_Small_nl_Default_20140613_073923.png"
+  },
+  {
+    "topping_id": "8c751f9f-8717-4315-ac01-144d40731d99",
+    "name": "Mushrooms",
+    "type": "Vegetable",
+    "price": 1,
+    "img_url": "https://order.dominos.be/ManagedAssets/OLO/eStore/All/Component/BE/Topping.ANANA/Topping.ANANA_ComponentImage_Small_nl_Default_20140613_073923.png"
+  },
+  {
+    "topping_id": "8c751f9f-8717-4315-ac01-144d40731d97",
+    "name": "Chilipepers",
+    "type": "Vegetable",
+    "price": 1,
+    "img_url": "https://order.dominos.be/ManagedAssets/OLO/eStore/All/Component/BE/Topping.ANANA/Topping.ANANA_ComponentImage_Small_nl_Default_20140613_073923.png"
+  },
+  {
+    "topping_id": "8c751f9f-8717-4315-ac01-144d40731d96",
+    "name": "Tomatoes",
+    "type": "Vegetable",
+    "price": 1,
+    "img_url": "https://order.dominos.be/ManagedAssets/OLO/eStore/All/Component/BE/Topping.ANANA/Topping.ANANA_ComponentImage_Small_nl_Default_20140613_073923.png"
+  }
+]
